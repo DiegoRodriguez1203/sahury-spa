@@ -1,12 +1,14 @@
 .card-father{
     width: 100%;
     display: flex;
-    justify-content: center;
+    
     
 }
 .card-cont{
     display: flex;
     flex-wrap: wrap;
+    justify-content:center ;
+    overflow: hidden;
 }
 .card{
     margin: 15px;
