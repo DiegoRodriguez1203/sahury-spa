@@ -13,6 +13,9 @@ Libraries used to create this app:
 
 
 -- Database -- 
-For this proyect, a small array was created with categorys (4) and each category will have an own array with it products (each product has a id, used to call its img, and a item number used to call it in the cart market). It is saved at the --- database.js --- document.
+For this proyect, a small array was created with categorys (4) and each category will have an own array with it products (each product has a id, used to call its img, and a item number used to call it in the cart market). It is saved at the --- database.js --- document in COMPONENTS folder.
+
+-- Context -- 
+The hook useContext is used to bring necessary global functions like add and remove, also to have a state array for the cart market. It is saved at the --- GeneralContext.js --- document in CONTEXT folder.
 
 
