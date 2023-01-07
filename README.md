@@ -8,6 +8,8 @@ To give a more professional service, this web app will allow its users (sahury s
 Libraries used to create this app:
 
 ----- React Router Dom
+----- React Day-picker
+----- React whatsapp
 
 
 
