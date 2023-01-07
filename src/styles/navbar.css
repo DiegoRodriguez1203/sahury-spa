@@ -1,0 +1,54 @@
+.navi{
+    width: 100%;
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #EAAD6E;
+    font-weight: 900;
+    color: #6d4c27;
+    font-size: 30px;
+    align-items: flex-end;
+}
+.navlogo{
+    width: 100%;
+}
+.navlogo img{
+    width: 100px;
+
+}
+.icons{
+    margin-right: 5px;
+}
+.icons img{
+    width: 0.9em;
+    padding: 0px 3px;
+}
+.arrow{
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+.circle-cart{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(28, 87, 57);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cart-number-products{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    margin-top: 0px;
+    font-size: 25px;
+}
+.cart-number{
+    display: flex;
+}
+.not{
+    display: none;
+}
