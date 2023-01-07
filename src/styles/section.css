@@ -1,0 +1,22 @@
+.section p{
+    margin-top: 2px;
+    color: #AA804E;
+    text-decoration: none;
+}
+.sectionimg{
+
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    overflow: hidden;
+    cursor: pointer;
+}
+.sectionimg img{
+    width: 100%;
+}
+.active{
+    border: 2.5px solid #EAAD6E;
+    border-radius: 50%;
+    padding: 4px;
+
+}
