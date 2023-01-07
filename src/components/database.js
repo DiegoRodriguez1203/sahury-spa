@@ -1,3 +1,6 @@
+// Data Bases used
+
+// Sections array
 export const section = [
     {name: 'Masajes',
     img: 0},
@@ -10,6 +13,7 @@ export const section = [
 ]
 
 
+// Products arrays
 export const cardfacial = [
 
     {name: 'Limpieza facial',
